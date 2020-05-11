@@ -1,4 +1,4 @@
-# fuelcalculator
+# Dice - Flutter
 
 A new Flutter project.
 
